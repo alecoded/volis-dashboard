@@ -25,17 +25,15 @@ Using the **Olist Brazilian E-commerce Dataset**, the objective was to create a 
 
 ## 🖥 Dashboard Preview
 
-*Add screenshots here*
+<img width="928" height="862" alt="image" src="https://github.com/user-attachments/assets/c4fa8542-bac8-4098-9263-6567d3fd79fd" />
 
-```md id="jwbyyr"
-![Dashboard Home](images/dashboard_home.png)
+<img width="910" height="882" alt="image" src="https://github.com/user-attachments/assets/4852adf7-eaaf-4d55-98d0-3d46237e33bd" />
 
-![CFO View](images/dashboard_cfo.png)
+<img width="922" height="614" alt="image" src="https://github.com/user-attachments/assets/77da70c2-4b6b-4c9a-8cca-089ac72d4a57" />
 
-![CX View](images/dashboard_cx.png)
-```
+<img width="916" height="605" alt="image" src="https://github.com/user-attachments/assets/aee7e2b1-40f1-41ea-9309-193585c3dcb6" />
 
----
+
 
 ## 👥 Executive Views
 
