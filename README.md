@@ -26,7 +26,7 @@ Using the **Olist Brazilian E-commerce Dataset**, the objective was to create a 
 ## 🖥 Dashboard Preview
 
 <img width="928" height="862" alt="image" src="https://github.com/user-attachments/assets/c4fa8542-bac8-4098-9263-6567d3fd79fd" />
-<p><em>CFO View — Revenue trends, average ticket and state performance.</em></p>
+<p><em> Header KPIs and CFO View — Revenue trends, average ticket and state performance.</em></p>
 
 
 
