@@ -1,0 +1,9 @@
+.venv/
+logs/
+**/logs/
+**/target/
+**/__pycache__/
+**/.states/
+**/.web/
+*.pyc
+*.duckdb
