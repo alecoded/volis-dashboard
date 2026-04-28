@@ -30,12 +30,18 @@ Using the **Olist Brazilian E-commerce Dataset**, the objective was to create a 
 
 
 
+
+
 <img width="910" height="882" alt="image" src="https://github.com/user-attachments/assets/4852adf7-eaaf-4d55-98d0-3d46237e33bd" />
 <p><em>COO View — Delivery SLA, logistics bottlenecks and operational efficiency.</em></p>
 
 
+
+
 <img width="922" height="614" alt="image" src="https://github.com/user-attachments/assets/77da70c2-4b6b-4c9a-8cca-089ac72d4a57" />
 <p><em>CX View — Customer satisfaction, review trends and critical categories.</em></p>
+
+
 
 
 
